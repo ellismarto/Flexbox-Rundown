@@ -28,8 +28,18 @@ h1{
     
 }
 
+ul{
+    list-style-type: none;
+    padding: 5px;
+}
+
 .flexgrow-container {
     display: flex;
+}
+
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .box1 {
