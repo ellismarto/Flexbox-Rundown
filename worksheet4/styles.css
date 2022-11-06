@@ -122,6 +122,10 @@ iframe {
     text-align: center;
 }
 
+figcaption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 /* section 5 media items */
 
 .section-five {
